@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(225, 217, 193);}
+
+h1 {
+    color: rgb(65, 0, 243);
+    text-align: center;}
+
+p {
+    font-size: 19px;
+    text-align: justify;}
+
+ul li{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);}
+
+table th, table td {
+    border: 1px solid #999;
+    padding: 10px;
+    text-align: center;}
+
+    a{
+    color: #0044cc;
+    transition: color 0.3s; }
+    a:hover {
+    color: #cc0000; }
